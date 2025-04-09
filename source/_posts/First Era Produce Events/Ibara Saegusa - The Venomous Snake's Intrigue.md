@@ -109,11 +109,11 @@ Ahaha! I’m very sorry, I’ll refrain from my pointless prying for now!
 
 # Episode 3
 
-<img src="/images/FirstEra/ProduceRMI1/vmz17rpb.png">
+<img src="/images/FirstEra/ProduceRMI2/vmz17rpb.png">
 
 (Location: Adam’s Autumn Live Stage)
 
-**Ibara**: Your Excellency~! Where are you, Your Excellency~?
+**Ibara**: Your Excellency\~! Where are you, Your Excellency\~?
 
 Oh, if it isn’t Anzu-san! Finally, the real Autumn Live show is about to begin!
 
