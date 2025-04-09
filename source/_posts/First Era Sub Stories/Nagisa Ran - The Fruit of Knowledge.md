@@ -1,5 +1,5 @@
 ---
-title: The Fruit of Knowledge
+title: Nagisa Ran - The Fruit of Knowledge
 tags: 
     - Akira
     - Sub/Idol Story
@@ -8,11 +8,13 @@ categories:
     - [Enstars, Nagisa Ran]
     - [Enstars, Ibara Saegusa]
 ---
-<img src="/images/Story/FruitKnowledge/lidvftb5.png">
+<img src="/images/FirstEra/FruitKnowledge/lidvftb5.png">
 
 **Writer**: Akira
 
 **Season**: Autumn
+
+<!-- more -->
 
 (Location: Adam’s Private Room)
 
@@ -62,7 +64,7 @@ Servility! Devotion! Service! Ahaha♪
 
 Kill with praise and shatter with looks! The customer is God! Ahaha♪
 
-<img src="/images/Story/FruitKnowledge/b34biav6.png">
+<img src="/images/FirstEra/FruitKnowledge/b34biav6.png">
 
 **Nagisa**: …… Do you want to kill me?
 
@@ -122,7 +124,7 @@ Please don’t doubt my sincerity–my loyalty!
 
 **Nagisa**: …… It’s fine. I don’t mind being used as you please.
 
-<img src="/images/Story/FruitKnowledge/6u1lvcyf.png">
+<img src="/images/FirstEra/FruitKnowledge/6u1lvcyf.png">
 
 **Ibara**: (Hmm. Dependent as always, he lacks the pride and dignity one tends to have with such talent.
 

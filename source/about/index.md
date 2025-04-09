@@ -4,7 +4,7 @@ title: ✧
 <img src="/images/General Images/Light Purple Anime Scene.gif">
 
 ### Introduction
-Focused on translating Adam content.
+Focused on translating Adder and Vanis content. Previously focused on translating for Adam from Ensemble Stars.
 
 Links:
 <ul>
