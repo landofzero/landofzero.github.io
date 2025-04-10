@@ -9,6 +9,7 @@ categories:
     - [Enstars, Tsumugi Aoba]
     - [Enstars, Hiyori Tomoe]
     - [Enstars, Eichi Tenshouin]
+date: 2023-07-22 12:00:00
 ---
 <img src="/images/FirstEra/FormerKings/ktysf327.png">
 

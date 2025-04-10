@@ -97,6 +97,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+plugins:
+  - hexo-reference
+
+# hexo-reference-plus
+refplus:
+  tippy: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
