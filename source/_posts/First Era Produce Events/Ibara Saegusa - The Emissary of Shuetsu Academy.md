@@ -5,6 +5,7 @@ tags:
     - Era !
 categories: 
     - [Enstars, Ibara Saegusa]
+date: 2023-09-17 12:00:00
 ---
 <img src="/images/General Images/vf7f9w89.png">
 
@@ -39,7 +40,7 @@ I’m still inexperienced, so I’ll continue to work hard every day! Assault! I
 
 …… Or rather, you don’t want me to be too concerned about it?
 
-To be kind to even filthy trash such as myself… As expected of a wonderful person like Anzu-san! 
+To be kind to even filthy trash such as myself… As expected of a wonderful person like Anzu-san!
 
 > Option 2: Y-You’re exaggerating……
 
@@ -49,7 +50,7 @@ To be kind to even filthy trash such as myself… As expected of a wonderful per
 
 Even the distorted eyebrows are adorable! That shape, that angle! It’s a beauty that can only be called a miracle!
 
-It’s such a perfect golden ratio, even the goddess of beauty runs away barefooted![^1]
+It’s such a perfect golden ratio, even the goddess of beauty runs away barefooted!(1)
 
 (Response B)
 
@@ -158,4 +159,6 @@ If you look into it a little, you can quickly come to the conclusion that you’
 <br>
 
 TL NOTES:
-[^1]:To “run away barefoot” is a Japanese expression to indicate that someone is so completely on another level in a skill/attribute that even an expert can’t compare.
+<ol>
+<li>To “run away barefoot” is a Japanese expression to indicate that someone is so completely on another level in a skill/attribute that even an expert can’t compare.</li>
+</ol>

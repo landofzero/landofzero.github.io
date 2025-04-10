@@ -7,6 +7,7 @@ tags:
 categories: 
     - [Enstars, Nagisa Ran]
     - [Enstars, Ibara Saegusa]
+date: 2023-07-20 12:00:00
 ---
 <img src="/images/FirstEra/FruitKnowledge/lidvftb5.png">
 

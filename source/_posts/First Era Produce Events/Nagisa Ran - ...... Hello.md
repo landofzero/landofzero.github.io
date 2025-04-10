@@ -5,6 +5,7 @@ tags:
     - Era !
 categories: 
     - [Enstars, Nagisa Ran]
+date: 2023-06-26 12:00:00
 ---
 <img src="/images/General Images/cav5ejda.png">
 

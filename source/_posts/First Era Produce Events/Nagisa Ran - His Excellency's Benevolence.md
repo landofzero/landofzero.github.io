@@ -5,6 +5,7 @@ tags:
     - Era !
 categories: 
     - [Enstars, Nagisa Ran]
+date: 2023-06-24 12:00:00
 ---
 <img src="/images/General Images/vf7f9w89.png">
 

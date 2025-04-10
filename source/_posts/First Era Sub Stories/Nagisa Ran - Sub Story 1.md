@@ -6,6 +6,7 @@ tags:
     - Era !
 categories: 
     - [Enstars, Nagisa Ran]
+date: 2023-07-17 12:00:00
 ---
 <img src="/images/FirstEra/SubStory1/5y8176lg.png">
 

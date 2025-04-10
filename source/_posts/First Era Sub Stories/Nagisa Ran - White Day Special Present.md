@@ -5,6 +5,7 @@ tags:
     - Era !
 categories: 
     - [Enstars, Nagisa Ran]
+date: 2023-05-31 12:00:00
 ---
 <img src="/images/FirstEra/WhiteDay/liwb4hhe.png">
 

@@ -7,6 +7,7 @@ tags:
 categories: 
     - [Enstars, Nagisa Ran]
     - [Enstars, Ibara Saegusa]
+date: 2023-05-31 12:00:00
 ---
 <img src="/images/FirstEra/EdensChristmas/cxjyl463.png">
 
