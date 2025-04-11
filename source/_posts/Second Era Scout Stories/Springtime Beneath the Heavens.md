@@ -7,7 +7,7 @@ categories:
     - [Enstars, Nagisa Ran]
     - [Enstars, Rei Sakuma]
     - [Enstars, Izumi Sena]
-    - [Enstars, Tetora Nagomu]
+    - [Enstars, Tetora Nagumo]
     - [Enstars, Eichi Tenshouin]
     - [Enstars, Hokuto Hidaka]
     - [Enstars, Kanata Shinkai]
