@@ -139,7 +139,7 @@ TL NOTES:
 
 ## 1
 
-<img src="/images/SecondEra/Absolute/372r145t.png">
+<img src="/images/SecondEra/Absolute/372r146t.png">
 
 (Location: Airport (Lobby))
 
