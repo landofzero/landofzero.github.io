@@ -10,6 +10,7 @@ Links:
 <ul>
     <li><a href="https://x.com/landofzero">Twitter</a></li>
     <li><a href="https://neospring.org/@landofzero">Neospring</a></li>
+    <li><a href="https://landofzero-archive.tumblr.com/">Tumblr</a></li>
 </ul>
 
 ### Permissions
