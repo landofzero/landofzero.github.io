@@ -1083,7 +1083,7 @@ TL NOTES:
 
 # The Coming of Dreams, Encircling Fate Eight
 
-<img src="/images/SecondEra/Spring/cg23.png">
+<img src="/images/SecondEra/Spring/cglast.png">
 
 (Location: Forest)
 
@@ -1127,7 +1127,7 @@ How interesting. Let’s go and take a look immediately.
 
 **Rei**: Yes. I was just growing weary of the same scenery; I’m fine. My vitality has welled up in one go♪ 
 
-<img src="/images/SecondEra/Spring/cg24.png">
+<img src="/images/SecondEra/Spring/cg23.png">
 
 (Location: Abandoned Mine)
 
